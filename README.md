@@ -33,6 +33,12 @@ Mic Shieldからの出力をA/D変換し、指パッチンの波形と相関係�
 
 Timer2の割り込みで1[ms]毎にA/D変換していますが、計算が間に合っていないように思います。
 
+## MISC
+
+* 指パッチンの波形（1[kHz]でサンプリング）
+
+![fig_wav](./_github/fig_wave_fingersnap.png)
+
 # Related work
 * [素晴らしきヒィッツカラルド](http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%AD%E3%83%9C_THE_ANIMATION_-%E5%9C%B0%E7%90%83%E3%81%8C%E9%9D%99%E6%AD%A2%E3%81%99%E3%82%8B%E6%97%A5%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9 "素晴らしきヒィッツカラルド")
 
